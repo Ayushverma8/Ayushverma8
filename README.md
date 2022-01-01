@@ -19,3 +19,10 @@
     <img height="30" src="./assets/docker.png">
 
 </p>
+
+## Github stats
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayushverma8?cardType=github&theme=highcontrast)](https://git.io/awesome-stats-card)
+
+
