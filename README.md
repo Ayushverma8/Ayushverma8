@@ -1,4 +1,4 @@
-# Hello.Hola.Bonjour.Konichiwa  👋
+# Hello.Namaste.Hola.Bonjour.Konichiwa  👋
 
 
 - 📊 An enthusiast full stack developer with focus on infrastructure side of applications. <br>
