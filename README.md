@@ -6,5 +6,5 @@
 - 🇨🇦 First year graduate student at Dalhousie University, Halifax <br>
 - ⚡  When I’m not coding, tweeting or pushing pixels, you’ll find me cooking or reading books.
 
+## Programming langauges and Tools
 
-So how can I help you? 💜
