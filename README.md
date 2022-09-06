@@ -3,7 +3,7 @@
 
 - 📊 An enthusiast full stack developer with focus on infrastructure side of applications. <br>
 - 🏗️ I like building healthy and fault-tolerant smart systems. <br>
-- 🇨🇦 First year graduate student at Dalhousie University, Halifax. <br>
+- 🇨🇦 Second year graduate student at Dalhousie University, Halifax. <br>
 - 🔆 I care deeply about three traits: empathy, resiliency, and integrity. <br>
 - ⚡  When I’m not coding, tweeting or pushing pixels, you’ll find me cooking or reading books.
 
